@@ -11,20 +11,14 @@ This repository contains the EMS (Employee Management System) full stack applica
 
 Add app screenshots to a `screenshots/` directory at the repository root.
 
-Example files:
-- `screenshots/home.png`
-- `screenshots/employees.png`
-- `screenshots/departments.png`
+Files included in this repo:
+- `screenshots/employees-page.png`
+- `screenshots/update-employee.png`
 
-Then add them to this README with Markdown:
-
-```md
 ## App Screenshots
 
-![Home screen](screenshots/home.png)
-![Employee list](screenshots/employees.png)
-![Department list](screenshots/departments.png)
-```
+![Employees screen](screenshots/employees-page.png)
+![Update employee screen](screenshots/update-employee.png)
 
 ## Running the app
 
